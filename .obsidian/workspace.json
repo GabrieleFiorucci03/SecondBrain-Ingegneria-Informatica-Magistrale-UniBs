@@ -11,10 +11,14 @@
             "id": "6a8767be34b22a62",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "CLAUDE.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nuova scheda"
+              "title": "CLAUDE"
             }
           }
         ]
@@ -178,6 +182,19 @@
   },
   "active": "6a8767be34b22a62",
   "lastOpenFiles": [
+    "README.md",
+    "CLAUDE.md",
+    "CLAUDE.md.tmp.36560.5a575efb33c5",
+    "wiki/indice.md",
+    "wiki/indice.md.tmp.36560.77e740b6225e",
+    "output",
+    "wiki",
+    "raw",
+    "CLAUDE.md.md",
+    "wiki/indice.md.tmp.36560.0d3be72a6ce2",
+    "wiki,",
+    "raw,",
+    "puzzia.md",
     "Benvenuto.md"
   ]
 }

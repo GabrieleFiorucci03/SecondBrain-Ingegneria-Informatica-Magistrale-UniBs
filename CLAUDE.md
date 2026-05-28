@@ -1,25 +1,3 @@
-# SecondBrain-Ingegneria-Informatica-Magistrale-UniBs
-AI-powered Obsidian Second Brain for the MSc in Computer Engineering at UniBs. This vault transforms course slides into structured, interconnected, and searchable knowledge using AI-driven summarization, semantic organization, and automated note generation to enhance learning, revision, and long-term retention.
-
-
-
-PROMPT PER STRUTTURA DEL VAULT
-
-Crea questa struttura di cartelle per la mia knowledge base:
-
-- raw/ - Questa sarà la mia inbox. Qui andrò a inserire il mio materiale sorgente.
-    
-- wiki/ - Questo è il tuo spazio. Qui scriverai e manterrai tutti i contenuti. Crea inoltre un file indice.md all'interno della cartella wiki/ con titolo "Indice delle wiki" e una nota che dice: "Elenco delle wiki nell'ordine in cui sono state create."
-    
-- output/ - Qui verranno salvati i risultati delle query, i report e le tue elaborazioni.
-    
-
-Crea solo queste cartelle. Non creare nient'altro, per ora.
-
-  
-
-ISTRUZIONI PER CLAUDE.md
-
 ## Ruolo
 
 Sei il bibliotecario di una knowledge base personale. Il tuo compito è ingerire materiale grezzo, mantenere una wiki strutturata e rispondere a query con sintesi accurate e tracciabili. L'utente cura le fonti e fa le domande, tu gestisci tutto il bookkeeping (sintesi, cross-reference, archiviazione, indici).
