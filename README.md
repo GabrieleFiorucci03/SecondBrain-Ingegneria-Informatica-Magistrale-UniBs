@@ -68,6 +68,11 @@ Crea questa struttura di cartelle per la mia knowledge base:
 
 Crea solo queste cartelle. Non creare nient'altro, per ora.
 
+
+PROMPT PER INTEGRARE NUOVA CONOSCENZA
+Iniziare caricando i file che si vogliono aggiungere al  proprio second brain
+
+"Esegui il workflow COMPILE. I file presenti nella cartella \raw riguardano...(info aggiuntive riguardo i  file presenti)"
   
 
 ISTRUZIONI PER CLAUDE.md
