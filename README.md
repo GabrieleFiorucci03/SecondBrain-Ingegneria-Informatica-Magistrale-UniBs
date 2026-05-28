@@ -1,6 +1,58 @@
 # SecondBrain-Ingegneria-Informatica-Magistrale-UniBs
 AI-powered Obsidian Second Brain for the MSc in Computer Engineering at UniBs. This vault transforms course slides into structured, interconnected, and searchable knowledge using AI-driven summarization, semantic organization, and automated note generation to enhance learning, revision, and long-term retention.
 
+# Usage Instructions
+
+The Second Brain is designed to be consulted through any AI agent capable of reading local files and folders.
+
+## How to Use
+
+1. Download or clone the repository locally.
+    
+2. Open the Second Brain folder with your preferred AI tool or agent.
+    
+3. Ensure the AI has access to read the Markdown files contained in the vault.
+    
+4. Interact with the AI exactly like a normal chatbot.
+    
+
+The AI will use the content of the vault as contextual knowledge to answer questions, explain concepts, summarize topics, and connect information across different courses.
+
+## Example Queries
+
+- "Explain the difference between TCP and UDP."
+    
+- "Summarize distributed systems consensus algorithms."
+    
+- "What are the main concepts of machine learning covered in the course?"
+    
+- "Create a study plan for the Computer Vision exam."
+    
+- "Find connections between operating systems and distributed systems."
+    
+
+## Recommended Tools
+
+Any AI assistant supporting local knowledge ingestion or folder-based context can be used, including:
+
+- Obsidian AI plugins
+    
+- Local LLM frameworks
+    
+- RAG-based assistants
+    
+- AI coding assistants with filesystem access
+    
+- Desktop AI agents
+    
+
+## Notes
+
+- The quality of responses depends on the AI model being used.
+    
+- Some generated notes may contain inaccuracies and should be verified with official course material.
+    
+- The vault is continuously expandable and can be enriched with new notes, summaries, and links.
 
 
 PROMPT PER STRUTTURA DEL VAULT
