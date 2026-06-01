@@ -5,7 +5,7 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": true,
+  "collapse-color-groups": false,
   "colorGroups": [
     {
       "query": "path:wiki/amministrazione-di-sistema  ",
@@ -27,6 +27,34 @@
         "a": 1,
         "rgb": 11657298
       }
+    },
+    {
+      "query": "path:wiki/interazione-persona-calcolatore  ",
+      "color": {
+        "a": 1,
+        "rgb": 5431378
+      }
+    },
+    {
+      "query": "path:wiki/machine-learning-e-data-mining  ",
+      "color": {
+        "a": 1,
+        "rgb": 5431473
+      }
+    },
+    {
+      "query": "path:wiki/modellistica-e-simulazione  ",
+      "color": {
+        "a": 1,
+        "rgb": 5419488
+      }
+    },
+    {
+      "query": "path:wiki/network-security  ",
+      "color": {
+        "a": 1,
+        "rgb": 5395168
+      }
     }
   ],
   "collapse-display": false,
@@ -39,6 +67,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.2762123163141034,
+  "scale": 0.3163950083569161,
   "close": true
 }
