@@ -101,6 +101,20 @@ La suite è un insieme di applicazioni software strutturate su tre livelli:
 | Microsoft | 996 | 3% |
 | Altri | 10.027 | 35% |
 
+## Evoluzione storica di SAP ERP
+
+| Anno | Versione | Novità principale |
+|---|---|---|
+| 1979 | **R/2** | Primo sistema SAP (mainframe) |
+| 1992 | **R/3** | Architettura client-server a 3 livelli; diffusione globale |
+| 2004 | **ECC** (Enterprise Central Component) | Suite integrata completa |
+| 2011 | **HANA** | Database in-memory ad alte prestazioni |
+| 2015 | **S/4** | ERP su HANA, UX semplificata (Fiori) |
+| 2016 | **Cloud** | Versione cloud-native |
+| 2017 | **PCE** (Private Cloud Edition) | Cloud privato gestito da SAP |
+
+**Fatturato SAP** (2022): 30,87 miliardi di euro (2001: 7,34 Md€ → crescita costante).
+
 ## Ciclo di vita di un progetto SAP (esempio reale)
 
 Un progetto di implementazione SAP (standard leader ERP mondiale, fondato il 01/04/1972; acronimo = Systeme, Anwendungen, Produkte = System, Application and Products) segue fasi ben definite:

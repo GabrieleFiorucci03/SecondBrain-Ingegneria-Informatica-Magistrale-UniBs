@@ -12,3 +12,4 @@ Elenco delle wiki nell'ordine in cui sono state create.
 - [[algoritmi-di-ottimizzazione/indice_wiki|Algoritmi di Ottimizzazione]] — Corso UniBS: ottimizzazione combinatoria, algoritmi esatti (B&B, B&C), approssimazione, metaeuristiche (TS, GRASP, VNS, ALNS), Kernel Search, Gurobi, ARP.
 - [[progettazione-web-full-stack/indice_wiki|Progettazione Web Full Stack]] — Corso UniBS: TypeScript, Nx, NestJS, TypeORM, autenticazione JWT, React, WebML (progettazione model-driven dati e ipertesto).
 - [[sistemi-informativi/indice_wiki|Sistemi Informativi]] — Corso UniBS: SI aziendali (SIO/SID), ERP, CRM, Data Warehouse, Business Intelligence, KPI, Blockchain, Industria 4.0.
+- [[data-driven-system-modeling/indice_wiki|Data Driven System Modeling]] — Corso UniBS: regressione lineare, OLS, proprietà statistiche degli stimatori (BLUE, FPE, regolarizzazione), identificazione di sistemi (ARMA, ARX, PEM).

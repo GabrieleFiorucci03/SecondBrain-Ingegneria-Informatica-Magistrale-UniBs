@@ -35,4 +35,5 @@ Wiki del corso "Sistemi Informativi" (UniBS, Ingegneria Informatica Magistrale).
 
 ### Tecnologie Avanzate
 
-- [[blockchain-si]] — Blockchain nei SI: distributed ledger, struttura blocchi, consenso (PoW/PoS/PoA), tipi (pubblica/permissioned/privata), applicazioni supply chain.
+- [[blockchain-si]] — Blockchain nei SI: distributed ledger, struttura blocchi, consenso (PoW/PoS/PoA), smart contract, proprietà, limiti, applicazioni supply chain.
+- [[sap-pp]] — Modulo SAP PP (Production Planning): 5 aree, tipi materiale (ROH/HALB/FERT), Distinta Base (BOM), MRP, transazioni MM01/CS01, scenario penna a sfera.

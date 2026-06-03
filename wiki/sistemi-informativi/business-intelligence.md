@@ -130,6 +130,38 @@ Problema → [Identificare problema e opportunità]
 
 Il **KDD (Knowledge Discovery in Databases)** alimenta il ciclo: Data Consolidation → Selection & Preprocessing → Data Mining → Pattern & Models → Interpretation & Evaluation → Knowledge.
 
+## Mappa AI e GenAI for Business
+
+### Tassonomia dell'AI
+
+```
+ARTIFICIAL INTELLIGENCE
+├── AI Deterministica (basata su regole)
+└── AI Statica (apprendimento automatico)
+    ├── Machine Learning
+    │   └── Deep Learning
+    │       └── Generative AI (Gen AI)
+    │           └── LLM (es. ChatGPT)
+```
+
+### GenAI for Business
+
+Il ciclo GenAI applicato al business:
+```
+Richiesta → Knowledge Base (ERP, DB, documenti) → [Prompt arricchito] → Generative AI → Risposta
+```
+
+**Applicazioni concrete di GenAI nei SI:**
+
+| Applicazione | Funzione |
+|---|---|
+| **Tender Management** | Comprensione e gap-analysis di RfQ, redazione draft per bandi di gara |
+| **Contrattualistica** | Analisi e confronto contratti, redazione automatica di draft |
+| **Ticket Management** | Gestione automatizzata di ticket per assistenza clienti o interna |
+| **Inserimento ordini** | Estrazione automatica di ordini da email e file, inserimento in ERP |
+| **Assistenza manutenzione** | Esperienza guidata per interventi complessi basata su conoscenze esperte |
+| **Data Analytics & Insights** | Esplorazione dati intuitiva e testuale, senza competenze BI |
+
 ## BI e Data Mining
 
 Dall'architettura BI completa:

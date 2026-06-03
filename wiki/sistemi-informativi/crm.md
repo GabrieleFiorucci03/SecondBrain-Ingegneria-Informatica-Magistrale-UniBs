@@ -137,6 +137,18 @@ La suite CRM è composta da tre sottosistemi complementari:
 | 1995–2000 | Sistemi moderni con Web e Business Intelligence |
 | 2010–oggi | CRM 4.0/CXM, marketing automation, chatbot, voicebot, CRM SaaS |
 
+## Segmentazione RFM
+
+Il modello **RFM** (Recency, Frequency, Monetary) è il criterio di segmentazione più diffuso nei CRM analitici:
+
+| Dimensione | Significato | Utilizzo |
+|---|---|---|
+| **Recency** | Quanto recentemente il cliente ha acquistato | Clienti recenti → più propensi a riacquistare |
+| **Frequency** | Quante volte ha acquistato nel periodo | Alta frequenza → clienti fedeli |
+| **Monetary** | Quanto ha speso nel periodo | Alto valore monetario → clienti ad alto valore |
+
+Le azioni CRM basate su RFM possono essere automatizzate tramite: email marketing mirate, notifiche personalizzate, raccomandazioni di prodotto.
+
 ## Articoli correlati
 
 - [[erp]]

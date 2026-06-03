@@ -96,6 +96,41 @@ Metodo per individuare e classificare gli Enterprise Systems di un'impresa manif
 
 Produce una mappa dei processi con i SW associati → evidenzia gap di copertura.
 
+## Modello PA completo: ES per aziende manifatturiere
+
+Il Modello del Portafoglio Applicativo mappa gli ES su due portafogli e sulla catena del valore:
+
+```
+PORTAFOGLIO ISTITUZIONALE (ES orizzontali)
+├── Amministrazione
+├── Gestione Risorse Umane
+└── Altri processi di supporto
+
+PORTAFOGLIO OPERATIVO (ES verticali)
+├── Progettazione e Industrializzazione → CAD
+├── Approvvigionamento → MRP / SCM / E-procurement
+├── Fabbricazione → CIM (Computer Integrated Manufacturing)
+├── Distribuzione e Vendita → DRP (Distribution Requirements Planning)
+└── Post-vendita ed altri processi primari → CRM
+```
+
+- **ERP**: copre sia il portafoglio istituzionale (orizzontale) che parte di quello operativo
+- **SCM / E-procurement**: interfaccia verso i fornitori (buy side)
+- **CRM**: interfaccia verso i clienti (sell side)
+- **MRP**: Material Requirements Planning — pianificazione fabbisogni materiali
+- **CIM**: Computer Integrated Manufacturing — automazione della fabbrica
+- **DRP**: Distribution Requirements Planning — pianificazione distribuzione
+
+## Evoluzione storica degli Enterprise Systems
+
+| Decennio | Tecnologia | Sistemi chiave |
+|---|---|---|
+| **'60** | Soluzioni ad hoc | Sistemi prenotazione aerea, gestione ordini |
+| **'70** | Basi di dati, pacchetti integrati | MRP (Material Requirements Planning), DRP |
+| **'80** | Automazione della fabbrica | CIM (Computer Integrated Manufacturing) |
+| **'90** | Sistemi integrati enterprise | ERP, CRM |
+| **'00** | Internet e Web | E-Procurement, B2B (CISCO), B2C (Amazon) |
+
 ## Articoli correlati
 
 - [[erp]]
