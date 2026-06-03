@@ -55,6 +55,27 @@
         "a": 1,
         "rgb": 5395168
       }
+    },
+    {
+      "query": "path:wiki/algoritmi-di-ottimizzazione  ",
+      "color": {
+        "a": 1,
+        "rgb": 11621088
+      }
+    },
+    {
+      "query": "path:wiki/progettazione-web-full-stack  ",
+      "color": {
+        "a": 1,
+        "rgb": 14701233
+      }
+    },
+    {
+      "query": "path:wiki/sistemi-informativi  ",
+      "color": {
+        "a": 1,
+        "rgb": 13688914
+      }
     }
   ],
   "collapse-display": false,
@@ -67,6 +88,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.3163950083569161,
+  "scale": 0.24940368621921938,
   "close": true
 }

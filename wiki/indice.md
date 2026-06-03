@@ -9,3 +9,6 @@ Elenco delle wiki nell'ordine in cui sono state create.
 - [[machine-learning-e-data-mining/indice_wiki|Machine Learning e Data Mining]] — Corso UniBS: apprendimento supervisionato, alberi di decisione, reti neurali, SVM, apprendimento Bayesiano, clustering, ensemble methods, valutazione.
 - [[modellistica-e-simulazione/indice_wiki|Modellistica e Simulazione]] — Corso UniBS: sistemi dinamici, LTI, state-space, modelli fisici/epidemiologici/sociali, linearizzazione, identificazione ARX.
 - [[network-security/indice_wiki|Network Security]] — Corso UniBS: crittografia, TLS, PKI, sicurezza LAN/WLAN/mobile (WEP, WPA, GSM, UMTS, 5G), firewall, VPN, nftables.
+- [[algoritmi-di-ottimizzazione/indice_wiki|Algoritmi di Ottimizzazione]] — Corso UniBS: ottimizzazione combinatoria, algoritmi esatti (B&B, B&C), approssimazione, metaeuristiche (TS, GRASP, VNS, ALNS), Kernel Search, Gurobi, ARP.
+- [[progettazione-web-full-stack/indice_wiki|Progettazione Web Full Stack]] — Corso UniBS: TypeScript, Nx, NestJS, TypeORM, autenticazione JWT, React, WebML (progettazione model-driven dati e ipertesto).
+- [[sistemi-informativi/indice_wiki|Sistemi Informativi]] — Corso UniBS: SI aziendali (SIO/SID), ERP, CRM, Data Warehouse, Business Intelligence, KPI, Blockchain, Industria 4.0.
