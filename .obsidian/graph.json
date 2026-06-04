@@ -1,5 +1,5 @@
 {
-  "collapse-filter": true,
+  "collapse-filter": false,
   "search": "",
   "showTags": false,
   "showAttachments": false,
@@ -89,6 +89,13 @@
       "color": {
         "a": 1,
         "rgb": 5441620
+      }
+    },
+    {
+      "query": "path:wiki/digital-image-processing  ",
+      "color": {
+        "a": 1,
+        "rgb": 12656485
       }
     }
   ],
