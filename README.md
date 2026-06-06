@@ -361,4 +361,4 @@ The knowledge base must be:
 In case of ambiguity over structural choices (creating a new wiki, merging articles, reorganizing folders), always ask the user for confirmation before acting.
 =======
 In caso di ambiguità su scelte strutturali (creare una nuova wiki, fare merge di articoli, riorganizzare cartelle), chiedi sempre conferma all'utente prima di agire.
->>>>>>> 539e0e580bc390b2aef7e311f38176c6975aa868
+>>>>>>
