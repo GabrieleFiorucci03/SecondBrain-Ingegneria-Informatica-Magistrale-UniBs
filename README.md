@@ -1,5 +1,5 @@
 # SecondBrain-Ingegneria-Informatica-Magistrale-UniBs
-AI-powered Obsidian Second Brain for the MSc in Computer Engineering at UniBs. This vault transforms course slides into structured, interconnected, and searchable knowledge using AI-driven summarization, semantic organization, and automated note generation to enhance learning, revision, and long-term retention.
+AI-powered Obsidian Second Brain for the MSc in Computer Engineering at UniBs. This vault transforms course notes into structured, interconnected, and searchable knowledge using AI-driven summarization, semantic organization, and automated note generation to enhance learning, revision, and long-term retention.
 
 # Usage Instructions
 
@@ -357,4 +357,8 @@ The knowledge base must be:
 
 - **Optimized for both humans and LLMs**: scannable at a glance by the user, parsable in few tokens by the agent.
 
+<<<<<<< HEAD
 In case of ambiguity over structural choices (creating a new wiki, merging articles, reorganizing folders), always ask the user for confirmation before acting.
+=======
+In caso di ambiguità su scelte strutturali (creare una nuova wiki, fare merge di articoli, riorganizzare cartelle), chiedi sempre conferma all'utente prima di agire.
+>>>>>>> 539e0e580bc390b2aef7e311f38176c6975aa868
