@@ -1,6 +1,8 @@
 # SecondBrain-Ingegneria-Informatica-Magistrale-UniBs
 AI-powered Obsidian Second Brain for the MSc in Computer Engineering at UniBs. This vault transforms course notes into structured, interconnected, and searchable knowledge using AI-driven summarization, semantic organization, and automated note generation to enhance learning, revision, and long-term retention.
 
+Project page: **[fioruccilabs.com/en/projects/second-brain-unibs](https://fioruccilabs.com/en/projects/second-brain-unibs/)**
+
 # Usage Instructions
 
 The Second Brain is designed to be consulted through any AI agent capable of reading local files and folders.
